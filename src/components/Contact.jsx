@@ -1,4 +1,4 @@
-import Button from './button.jsx';
+import Button from './Button';
 import React from 'react';
 
 const ImageClipBox = ({ src, clipClass }) => (

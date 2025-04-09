@@ -1,4 +1,4 @@
-import Button from './button.jsx';
+import Button from './Button';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';

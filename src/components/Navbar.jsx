@@ -1,4 +1,4 @@
-import Button from './button.jsx';
+import Button from './Button';
 import gsap from 'gsap';
 import { useEffect, useRef, useState } from 'react';
 import { TiLocationArrow } from 'react-icons/ti';
